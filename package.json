@@ -1,6 +1,6 @@
 {
   "dependencies": {
-    "mangadex-full-api": "5.11.1",
+    "mangadex-full-api": "5.12.1",
     "node-windows": "1.0.0-beta.6",
     "rss": "1.2.2"
   }
